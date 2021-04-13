@@ -1,5 +1,7 @@
 # haskell-grpc-native
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](https://github.com/Concordium/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+
 This organization and repository aim at providing unofficial
 [gRPC](https://grpc.io/) implementations for Haskell using native libraries.
 
