@@ -1,5 +1,4 @@
 resolver: lts-20.4
-allow-newer: true
 packages:
 - http2-grpc-types
 - http2-grpc-proto-lens
